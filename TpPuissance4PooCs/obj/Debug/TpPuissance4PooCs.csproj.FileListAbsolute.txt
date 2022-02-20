@@ -1,0 +1,14 @@
+C:\Developpement\C#\TpPuissance4PooCs\TpPuissance4PooCs\bin\Debug\TpPuissance4PooCs.exe.config
+C:\Developpement\C#\TpPuissance4PooCs\TpPuissance4PooCs\bin\Debug\TpPuissance4PooCs.exe
+C:\Developpement\C#\TpPuissance4PooCs\TpPuissance4PooCs\bin\Debug\TpPuissance4PooCs.pdb
+C:\Developpement\C#\TpPuissance4PooCs\TpPuissance4PooCs\obj\Debug\TpPuissance4PooCs.csprojAssemblyReference.cache
+C:\Developpement\C#\TpPuissance4PooCs\TpPuissance4PooCs\obj\Debug\TpPuissance4PooCs.csproj.CoreCompileInputs.cache
+C:\Developpement\C#\TpPuissance4PooCs\TpPuissance4PooCs\obj\Debug\TpPuissance4PooCs.exe
+C:\Developpement\C#\TpPuissance4PooCs\TpPuissance4PooCs\obj\Debug\TpPuissance4PooCs.pdb
+C:\Users\matth\Downloads\TpPuissance4PooCs\TpPuissance4PooCs\bin\Debug\TpPuissance4PooCs.exe.config
+C:\Users\matth\Downloads\TpPuissance4PooCs\TpPuissance4PooCs\bin\Debug\TpPuissance4PooCs.exe
+C:\Users\matth\Downloads\TpPuissance4PooCs\TpPuissance4PooCs\bin\Debug\TpPuissance4PooCs.pdb
+C:\Users\matth\Downloads\TpPuissance4PooCs\TpPuissance4PooCs\obj\Debug\TpPuissance4PooCs.csproj.AssemblyReference.cache
+C:\Users\matth\Downloads\TpPuissance4PooCs\TpPuissance4PooCs\obj\Debug\TpPuissance4PooCs.csproj.CoreCompileInputs.cache
+C:\Users\matth\Downloads\TpPuissance4PooCs\TpPuissance4PooCs\obj\Debug\TpPuissance4PooCs.exe
+C:\Users\matth\Downloads\TpPuissance4PooCs\TpPuissance4PooCs\obj\Debug\TpPuissance4PooCs.pdb

@@ -1,0 +1,6 @@
+C:\Developpement\C#\TpPuissance4PooCs\TpPuissance4PooCs\bin\Release\TpPuissance4PooCs.exe.config
+C:\Developpement\C#\TpPuissance4PooCs\TpPuissance4PooCs\bin\Release\TpPuissance4PooCs.exe
+C:\Developpement\C#\TpPuissance4PooCs\TpPuissance4PooCs\bin\Release\TpPuissance4PooCs.pdb
+C:\Developpement\C#\TpPuissance4PooCs\TpPuissance4PooCs\obj\Release\TpPuissance4PooCs.csproj.CoreCompileInputs.cache
+C:\Developpement\C#\TpPuissance4PooCs\TpPuissance4PooCs\obj\Release\TpPuissance4PooCs.exe
+C:\Developpement\C#\TpPuissance4PooCs\TpPuissance4PooCs\obj\Release\TpPuissance4PooCs.pdb
